@@ -1,0 +1,23 @@
+{
+    "name": "FidgetSweeper.Scripts",
+    "rootNamespace": "FidgetSweeper",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0bf3431660d901e4681b069c44e0b867",
+        "GUID:a77c6ba9944534d429bb5198b783cbe4",
+        "GUID:f2ca153eb222aeb45910f701a16659f5",
+        "GUID:dad624460036b51448e1b1849358a96a",
+        "GUID:0d8ec3b23a068d2428885081f90eb981",
+        "GUID:ce545d9a1396f554d9e54a89d335862a",
+        "GUID:c66e384907d00b640abd15e0bd51dbd2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
